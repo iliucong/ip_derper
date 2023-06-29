@@ -21,6 +21,7 @@ commonName = $CERT_HOST: Self-signed certificate
 [req_ext]
 subjectAltName = @alt_names
 
+
 [v3_req]
 subjectAltName = @alt_names
 

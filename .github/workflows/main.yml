@@ -44,4 +44,4 @@ jobs:
           context: ./
           push: true
           tags: |
-            liuzzzz/ip_derper:2023.12.01
+            liuzzzz/ip_derper:2023.06.29.2
